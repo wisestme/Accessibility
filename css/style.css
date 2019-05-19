@@ -8,3 +8,7 @@
 	width: 1px;
 }
 
+.skip-link {
+	left: -100%;
+	position: absolute;
+}
