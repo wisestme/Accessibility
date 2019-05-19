@@ -12,3 +12,7 @@
 	left: -100%;
 	position: absolute;
 }
+
+.skip-link:focus {
+	left: 50%;
+}
